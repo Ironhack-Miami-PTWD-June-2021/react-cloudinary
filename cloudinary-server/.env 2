@@ -1,0 +1,6 @@
+PORT=3001
+ENV=development
+
+CLOUD_NAME=<your cloud name></your>
+CLOUD_KEY=<your cloud key>
+CLOUD_SECRET=<your cloud secret>
